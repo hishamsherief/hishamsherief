@@ -6,6 +6,5 @@ I am a Pre-final year B-tech student.
 * 🌱 I’m currently learning Mechine learning and ROS
 * 🤔 I’m looking for help with ROS
 * 💬 Ask me about Python3
-* 📫 How to reach me: :point_down:
 
 [Email](hishamsherief@ieee.org) • [LinkedIn](https://www.linkedin.com/in/hishamsherief/) • [Twitter](https://twitter.com/hishamsherief)
